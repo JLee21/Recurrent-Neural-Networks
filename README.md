@@ -1,5 +1,6 @@
 # Recurrent-Neural-Networks
 My own attempt of wrapping my mind around RNNs.
+
 ---
 ## First Phase
 Andrej Karpathy's Stanford Lecture **CS231n Winter 2016 Lecture 10 Recurrent Neural Networks, Image Captioning, LSTM** (sorry, the YouTube link is private and I'm personally allowed to share it).
