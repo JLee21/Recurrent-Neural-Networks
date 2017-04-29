@@ -47,3 +47,9 @@ lolnin
 Ot tint bight
 '''
 ```
+
+## Second Phase - RNN in Keras
+To be...
+
+## Third Phase - RNN and LSTM
+To be...
