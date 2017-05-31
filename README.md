@@ -3,7 +3,7 @@ My own attempt of wrapping my mind around RNNs.
 
 ## Ultimate Goals
 * To create a RNN agent that can play a game, like Tic-Tac-Toe
-* To be able to teach the concept of RNNs to the point where one can implemnt in just Python's Numpy
+* To be able to teach the concept of RNNs to the point where one can implement in just Python's Numpy
 * To provide the learning steps I took in learning RNNs (with a background in basic NN, CNNs, classification, regression).
 
 ## First Phase - RNN in just Numpy
